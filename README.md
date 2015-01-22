@@ -12,4 +12,4 @@
 * The total amount is updated automatically by tapping anywhere of the app or a specific segment control element
 
 ##### GIF walkthrough of all required and optional stories
-![Video Walkthrough](tipCalculatorWorkthrough.gif)
+![Video Walkthrough](tipCalculatorWorkthroughWithSettings.gif)
