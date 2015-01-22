@@ -10,6 +10,7 @@
 * The app calculates total amount from bill amount and tips percentage
 * User can easily change tips percentage from 10% - 30%
 * The total amount is updated automatically by tapping anywhere of the app or a specific segment control element
+* Has a settings page for setting default percentage
 
 ##### GIF walkthrough of all required and optional stories
 ![Video Walkthrough](tipCalculatorWorkthroughWithSettings.gif)
